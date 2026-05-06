@@ -1,4 +1,3 @@
-cat <<EOT > src/theme.ts
 export const customTheme = {
   colors: {
     brand: {
@@ -6,4 +5,3 @@ export const customTheme = {
     },
   },
 };
-EOT
